@@ -11,6 +11,11 @@
       "cssURL": "https://raw.githubusercontent.com/W4775/WIDIFY-CONFIGS/main/css/cars.css"
     },
     {
+      "name": "disney plus",
+      "baseURL": "disneyplus.com",
+      "cssURL": "https://raw.githubusercontent.com/W4775/WIDIFY-CONFIGS/main/css/disneyplus.css"
+    },
+    {
       "name": "gamestop",
       "baseURL": "gamestop.com",
       "cssURL": "https://raw.githubusercontent.com/W4775/WIDIFY-CONFIGS/main/css/gamestop.css"
