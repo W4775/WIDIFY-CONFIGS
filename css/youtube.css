@@ -6,8 +6,8 @@
 .ytp-big-mode>.html5-video-container>.video-stream {
     height: 100vh !important;
     width: 100vw !important;
-    position: relative;
-    left: 0px;
+    position: relative !important;
+    left: 0px !important;
 }
 
 video {
