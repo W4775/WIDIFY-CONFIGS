@@ -3,57 +3,57 @@
     {
       "name": "amazon",
       "baseURL": "amazon.com",
-      "cssURL": "https://raw.githubusercontent.com/W4775/Widify/main/chrome-extension-widify-master/css/amazon.css"
+      "cssURL": "https://raw.githubusercontent.com/W4775/WIDIFY-CONFIGS/main/css/amazon.css"
     },
     {
       "name": "cars",
       "baseURL": "cars.com",
-      "cssURL": "https://raw.githubusercontent.com/W4775/Widify/main/chrome-extension-widify-master/css/cars.css"
+      "cssURL": "https://raw.githubusercontent.com/W4775/WIDIFY-CONFIGS/main/css/cars.css"
     },
     {
       "name": "gamestop",
       "baseURL": "gamestop.com",
-      "cssURL": "https://raw.githubusercontent.com/W4775/Widify/main/chrome-extension-widify-master/css/gamestop.css"
+      "cssURL": "https://raw.githubusercontent.com/W4775/WIDIFY-CONFIGS/main/css/gamestop.css"
     },
     {
       "name": "github",
       "baseURL": "github.com",
-      "cssURL": "https://raw.githubusercontent.com/W4775/Widify/main/chrome-extension-widify-master/css/github.css"
+      "cssURL": "https://raw.githubusercontent.com/W4775/WIDIFY-CONFIGS/main/css/github.css"
     },
     {
       "name": "hotels",
       "baseURL": "hotels.com",
-      "cssURL": "https://raw.githubusercontent.com/W4775/Widify/main/chrome-extension-widify-master/css/hotels.css"
+      "cssURL": "https://raw.githubusercontent.com/W4775/WIDIFY-CONFIGS/main/css/hotels.css"
     },
     {
       "name": "netflix",
       "baseURL": "netflix.com",
-      "cssURL": "https://raw.githubusercontent.com/W4775/Widify/main/chrome-extension-widify-master/css/netflix.css"
+      "cssURL": "https://raw.githubusercontent.com/W4775/WIDIFY-CONFIGS/main/css/netflix.css"
     },
     {
       "name": "reddit",
       "baseURL": "reddit.com",
-      "cssURL": "https://raw.githubusercontent.com/W4775/Widify/main/chrome-extension-widify-master/css/reddit.css"
+      "cssURL": "https://raw.githubusercontent.com/W4775/WIDIFY-CONFIGS/main/css/reddit.css"
     },
     {
       "name": "slickdeals",
       "baseURL": "slickdeals.net",
-      "cssURL": "https://raw.githubusercontent.com/W4775/Widify/main/chrome-extension-widify-master/css/slickdeals.css"
+      "cssURL": "https://raw.githubusercontent.com/W4775/WIDIFY-CONFIGS/main/css/slickdeals.css"
     },
     {
       "name": "target",
       "baseURL": "target.com",
-      "cssURL": "https://raw.githubusercontent.com/W4775/Widify/main/chrome-extension-widify-master/css/target.css"
+      "cssURL": "https://raw.githubusercontent.com/W4775/WIDIFY-CONFIGS/main/css/target.css"
     },
     {
       "name": "walmart",
       "baseURL": "walmart.com",
-      "cssURL": "https://raw.githubusercontent.com/W4775/Widify/main/chrome-extension-widify-master/css/walmart.css"
+      "cssURL": "https://raw.githubusercontent.com/W4775/WIDIFY-CONFIGS/main/css/walmart.css"
     },
     {
       "name": "youtube",
       "baseURL": "youtube.com",
-      "cssURL": "https://raw.githubusercontent.com/W4775/Widify/main/chrome-extension-widify-master/css/youtube.css"
+      "cssURL": "https://raw.githubusercontent.com/W4775/WIDIFY-CONFIGS/main/css/youtube.css"
     }
   ]
 }
