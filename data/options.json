@@ -1,64 +1,72 @@
 {
-  "sites": [
-    {
-      "name": "amazon",
-      "baseURL": "amazon.com",
-      "cssURL": "https://raw.githubusercontent.com/W4775/WIDIFY-CONFIGS/main/css/amazon.css"
-    },
-    {
-      "name": "cars",
-      "baseURL": "cars.com",
-      "cssURL": "https://raw.githubusercontent.com/W4775/WIDIFY-CONFIGS/main/css/cars.css"
-    },
-    {
-      "name": "disney plus",
-      "baseURL": "disneyplus.com",
-      "cssURL": "https://raw.githubusercontent.com/W4775/WIDIFY-CONFIGS/main/css/disneyplus.css"
-    },
-    {
-      "name": "gamestop",
-      "baseURL": "gamestop.com",
-      "cssURL": "https://raw.githubusercontent.com/W4775/WIDIFY-CONFIGS/main/css/gamestop.css"
-    },
-    {
-      "name": "github",
-      "baseURL": "github.com",
-      "cssURL": "https://raw.githubusercontent.com/W4775/WIDIFY-CONFIGS/main/css/github.css"
-    },
-    {
-      "name": "hotels",
-      "baseURL": "hotels.com",
-      "cssURL": "https://raw.githubusercontent.com/W4775/WIDIFY-CONFIGS/main/css/hotels.css"
-    },
-    {
-      "name": "netflix",
-      "baseURL": "netflix.com",
-      "cssURL": "https://raw.githubusercontent.com/W4775/WIDIFY-CONFIGS/main/css/netflix.css"
-    },
-    {
-      "name": "reddit",
-      "baseURL": "reddit.com",
-      "cssURL": "https://raw.githubusercontent.com/W4775/WIDIFY-CONFIGS/main/css/reddit.css"
-    },
-    {
-      "name": "slickdeals",
-      "baseURL": "slickdeals.net",
-      "cssURL": "https://raw.githubusercontent.com/W4775/WIDIFY-CONFIGS/main/css/slickdeals.css"
-    },
-    {
-      "name": "target",
-      "baseURL": "target.com",
-      "cssURL": "https://raw.githubusercontent.com/W4775/WIDIFY-CONFIGS/main/css/target.css"
-    },
-    {
-      "name": "walmart",
-      "baseURL": "walmart.com",
-      "cssURL": "https://raw.githubusercontent.com/W4775/WIDIFY-CONFIGS/main/css/walmart.css"
-    },
-    {
-      "name": "youtube",
-      "baseURL": "youtube.com",
-      "cssURL": "https://raw.githubusercontent.com/W4775/WIDIFY-CONFIGS/main/css/youtube.css"
-    }
-  ]
+    "sites": [{
+            "name": "amazon",
+            "baseURL": "amazon.com",
+            "cssURL": "https://raw.githubusercontent.com/W4775/WIDIFY-CONFIGS/main/css/amazon.css"
+        }, {
+            "name": "cars",
+            "baseURL": "cars.com",
+            "cssURL": "https://raw.githubusercontent.com/W4775/WIDIFY-CONFIGS/main/css/cars.css"
+        }, {
+            "name": "crunchyroll",
+            "baseURL": "crunchyroll.com",
+            "cssURL": "https://raw.githubusercontent.com/W4775/WIDIFY-CONFIGS/main/css/crunchyroll.css"
+        }, {
+            "name": "disney plus",
+            "baseURL": "disneyplus.com",
+            "cssURL": "https://raw.githubusercontent.com/W4775/WIDIFY-CONFIGS/main/css/disneyplus.css"
+        }, {
+            "name": "funimation",
+            "baseURL": "funimation.com",
+            "cssURL": "https://raw.githubusercontent.com/W4775/WIDIFY-CONFIGS/main/css/funimation.css"
+        }, {
+            "name": "gamestop",
+            "baseURL": "gamestop.com",
+            "cssURL": "https://raw.githubusercontent.com/W4775/WIDIFY-CONFIGS/main/css/gamestop.css"
+        }, {
+            "name": "github",
+            "baseURL": "github.com",
+            "cssURL": "https://raw.githubusercontent.com/W4775/WIDIFY-CONFIGS/main/css/github.css"
+        }, {
+            "name": "hotels",
+            "baseURL": "hotels.com",
+            "cssURL": "https://raw.githubusercontent.com/W4775/WIDIFY-CONFIGS/main/css/hotels.css"
+        }, {
+            "name": "hulu",
+            "baseURL": "hulu.com",
+            "cssURL": "https://raw.githubusercontent.com/W4775/WIDIFY-CONFIGS/main/css/hulu.css"
+        }, {
+            "name": "netflix",
+            "baseURL": "netflix.com",
+            "cssURL": "https://raw.githubusercontent.com/W4775/WIDIFY-CONFIGS/main/css/netflix.css"
+        }, {
+            "name": "reddit",
+            "baseURL": "reddit.com",
+            "cssURL": "https://raw.githubusercontent.com/W4775/WIDIFY-CONFIGS/main/css/reddit.css"
+        }, {
+            "name": "slickdeals",
+            "baseURL": "slickdeals.net",
+            "cssURL": "https://raw.githubusercontent.com/W4775/WIDIFY-CONFIGS/main/css/slickdeals.css"
+        }, {
+            "name": "target",
+            "baseURL": "target.com",
+            "cssURL": "https://raw.githubusercontent.com/W4775/WIDIFY-CONFIGS/main/css/target.css"
+        }, {
+            "name": "twitch",
+            "baseURL": "twitch.tv",
+            "cssURL": "https://raw.githubusercontent.com/W4775/WIDIFY-CONFIGS/main/css/twitch.css"
+        }, {
+            "name": "vrv",
+            "baseURL": "vrv.co",
+            "cssURL": "https://raw.githubusercontent.com/W4775/WIDIFY-CONFIGS/main/css/vrv.css"
+        }, {
+            "name": "walmart",
+            "baseURL": "walmart.com",
+            "cssURL": "https://raw.githubusercontent.com/W4775/WIDIFY-CONFIGS/main/css/walmart.css"
+        }, {
+            "name": "youtube",
+            "baseURL": "youtube.com",
+            "cssURL": "https://raw.githubusercontent.com/W4775/WIDIFY-CONFIGS/main/css/youtube.css"
+        }
+    ]
 }
