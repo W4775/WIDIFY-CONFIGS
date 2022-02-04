@@ -1,15 +1,3 @@
-.ytp-big-mode {
-    height: 100vh !important;
-    width: 100vw !important;
-}
-
-.ytp-big-mode>.html5-video-container>.video-stream {
-    height: 100vh !important;
-    width: 100vw !important;
-    position: relative !important;
-    left: 0px !important;
-}
-
 video {
     object-fit: cover;
     object-position: center;
