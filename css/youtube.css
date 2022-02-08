@@ -11,3 +11,11 @@ video {
     left: 0px !important;
     position: fixed !important;
 }
+
+
+.ytp-large-width-mode>div>video.video-stream {
+    display: block;
+    width: 100% !important;
+    top: 0px !important;
+    left: 0px !important;
+}
