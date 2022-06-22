@@ -1,16 +1,16 @@
 /* ----- Classic View -----*/
 .varwidth #topwrapper,
 .varwidth .top_userbar_container {
-	width: var(--max-width) !important;
+	width: 100% !important;
 	max-width: none !important;
 }
 
 #deal_list_featured,
 #deal_list {
-	width: var(--max-width) !important;
+	width: 100% !important;
 }
 
 /* ----- New View -----*/
 #pageContent{
-	width: var(--max-width) !important;
+	width: 100% !important;
 }
