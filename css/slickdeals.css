@@ -1,16 +1,20 @@
+:root {
+	--max-width: none;
+}
+
 /* ----- Classic View -----*/
 .varwidth #topwrapper,
 .varwidth .top_userbar_container {
-	width: 100% !important;
+	width: var(--max-width) !important;
 	max-width: none !important;
 }
 
 #deal_list_featured,
 #deal_list {
-	width: 100% !important;
+	width: var(--max-width) !important;
 }
 
 /* ----- New View -----*/
 #pageContent{
-	width: 100% !important;
+	width: var(--max-width) !important;
 }
