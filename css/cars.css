@@ -1,3 +1,7 @@
+:root {
+	--max-width: none;
+}
+
 @media (min-width: 1600px) {
 	.display-ad.listing-ad {
 		width: 50%;
@@ -11,7 +15,7 @@
 	}
 
 	.listing-loan-calculator {
-		max-width: none !important;
+		max-width: var(--max-width) !important;
 	}
 
 	.listings-page .vehicle-cards {
@@ -21,23 +25,23 @@
 	}
 
 	.listings-page .save-search-banner {
-		width: 100%;
+		width: var(--max-width);
 	}
 
 	.sds-container {
-		max-width: none !important;
+		max-width: var(--max-width) !important;
 	}
 
 	.sds-page-section {
-		max-width: none !important;
+		max-width: var(--max-width) !important;
 	}
 
 	.vdp-content-wrapper {
-		max-width: none !important;
+		max-width: var(--max-width) !important;
 	}
 
 	.vdp-content-wrapper .vehicle-reviews .reviews-collection {
-		max-width: none !important;
+		max-width: var(--max-width) !important;
 	}
 
 	.vehicle-card {
@@ -45,20 +49,20 @@
 	}
 
 	.vehicle-gallery .gallery-wrapper {
-		max-width: none !important;
+		max-width: var(--max-width) !important;
 	}
 
 	.vehicle-gallery-lightbox>.vg-lightbox-container {
-		max-width: none !important;
+		max-width: var(--max-width) !important;
 		width: 100% !important;
 	}
 
 	.vehicle-gallery-lightbox>.vg-lightbox-container .lightbox-content.lightbox-content-tablet .vgl-tablet-gallery {
-		max-width: none !important;
+		max-width: var(--max-width) !important;
 	}
 
 	.vehicle-gallery-lightbox>.vg-lightbox-container .lightbox-content.lightbox-content-tablet .vgl-tablet-gallery .image-wrapper .main-selected-image {
-		max-width: none !important;
+		max-width: var(--max-width) !important;
 		width: 40% !important;
 	}
 }
