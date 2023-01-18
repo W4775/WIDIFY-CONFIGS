@@ -54,6 +54,14 @@
 		width: 20% !important;
 		padding-left: 25px
 	}
+	
+	.s-search-results>.s-widget-spacing-large {
+	    grid-column: auto / span 20 !important;
+	}
+	
+	.s-wide-grid-style .s-result-list>.sg-col-20-of-24 {
+	    grid-column: auto / span 5;
+	}
 
 	/* ----- Product Results - End ----- */
 
