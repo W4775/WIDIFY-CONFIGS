@@ -60,7 +60,7 @@
 	}
 	
 	.s-wide-grid-style .s-result-list>.sg-col-20-of-24 {
-	    grid-column: auto / span 5;
+	    grid-column: auto / span 5 !important;
 	}
 
 	/* ----- Product Results - End ----- */
