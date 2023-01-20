@@ -55,12 +55,12 @@
 		padding-left: 25px
 	}
 	
-	.s-wide-grid-style .s-result-list>.s-widget-spacing-large {
-	    grid-column: auto / span 20 !important;
+	.sg-col-20-of-24.s-result-item.sg-col-0-of-12.sg-col-16-of-20.s-widget.sg-col.sg-col-12-of-16.s-widget-spacing-large {
+		grid-column: auto/span 20!important;
 	}
 	
 	.s-wide-grid-style .s-result-list>.sg-col-20-of-24 {
-	    grid-column: auto / span 5 !important;
+		grid-column: auto / span 5 !important;
 	}
 
 	/* ----- Product Results - End ----- */
