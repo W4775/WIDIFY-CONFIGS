@@ -1,5 +1,9 @@
 {
     "sites": [{
+            "name": "acorn",
+            "baseURL": "acorn.tv",
+            "cssURL": "https://raw.githubusercontent.com/W4775/WIDIFY-CONFIGS/main/css/acorn.css"
+        },{
             "name": "amazon",
             "baseURL": "amazon.com",
             "cssURL": "https://raw.githubusercontent.com/W4775/WIDIFY-CONFIGS/main/css/amazon.css"
