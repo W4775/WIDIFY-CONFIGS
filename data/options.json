@@ -87,6 +87,11 @@
                 "cssURL": "https://raw.githubusercontent.com/W4775/WIDIFY-CONFIGS/main/css/twitch.css"
             },
             {
+                "name": "tiktok",
+                "baseURL": "tiktok.com",
+                "cssURL": "https://raw.githubusercontent.com/W4775/WIDIFY-CONFIGS/main/css/tiktok.css"
+            }, 
+            {
                 "name": "twitter",
                 "baseURL": "twitter.com",
                 "cssURL": "https://raw.githubusercontent.com/W4775/WIDIFY-CONFIGS/main/css/twitter.css"
