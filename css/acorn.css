@@ -1,1 +1,3 @@
-
+.container, .wp-activate-container {
+    width: 96% !important;
+}
