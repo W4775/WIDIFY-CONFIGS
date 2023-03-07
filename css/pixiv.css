@@ -2,6 +2,10 @@
     grid-template-columns: repeat(auto-fit, minmax(184px, 1fr)) !important;
 }
 
-.iClkCH, .gTaKEp {
+.iClkCH {
+    width: calc(100vw - 162px) !important;
+}
+
+.gTaKEp {
     width: 100% !important;
 }
