@@ -50,6 +50,11 @@
                 "name": "hulu",
                 "baseURL": "hulu.com",
                 "cssURL": "https://raw.githubusercontent.com/W4775/WIDIFY-CONFIGS/main/css/hulu.css"
+            },
+            {
+                "name": "instagram",
+                "baseURL": "instagram.com",
+                "cssURL": "https://raw.githubusercontent.com/W4775/WIDIFY-CONFIGS/main/css/instagram.css"
             }, 
             {
                 "name": "netflix",
