@@ -1,0 +1,4 @@
+._aa_y {
+    max-width: none !important;
+    width: calc(100% - 40px) !important; 
+}
