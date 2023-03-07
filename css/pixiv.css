@@ -1,5 +1,5 @@
 .krFoBL {
-    grid-template-columns: repeat(auto-fit, minmax(184px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(184px, 1fr)) !important;
 }
 
 .iClkCH, .gTaKEp {
