@@ -14,3 +14,7 @@
 	display: grid;
     	grid-template-columns: repeat(auto-fit, minmax(692px, 1fr));
 }
+
+.tiktok-qxzyco-DivBottomContainer {
+    right: -16%;
+}
