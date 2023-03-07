@@ -1,1 +1,7 @@
+.krFoBL {
+    grid-template-columns: repeat(auto-fit, minmax(184px, 1fr));
+}
 
+.iClkCH, .gTaKEp {
+    width: 100% !important;
+}
