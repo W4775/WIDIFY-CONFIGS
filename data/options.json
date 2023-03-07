@@ -80,17 +80,17 @@
                 "name": "target",
                 "baseURL": "target.com",
                 "cssURL": "https://raw.githubusercontent.com/W4775/WIDIFY-CONFIGS/main/css/target.css"
-            }, 
-            {
-                "name": "twitch",
-                "baseURL": "twitch.tv",
-                "cssURL": "https://raw.githubusercontent.com/W4775/WIDIFY-CONFIGS/main/css/twitch.css"
             },
             {
                 "name": "tiktok",
                 "baseURL": "tiktok.com",
                 "cssURL": "https://raw.githubusercontent.com/W4775/WIDIFY-CONFIGS/main/css/tiktok.css"
             }, 
+            {
+                "name": "twitch",
+                "baseURL": "twitch.tv",
+                "cssURL": "https://raw.githubusercontent.com/W4775/WIDIFY-CONFIGS/main/css/twitch.css"
+            },
             {
                 "name": "twitter",
                 "baseURL": "twitter.com",
