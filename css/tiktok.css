@@ -1,8 +1,17 @@
+tiktok:
 .css-19fglm-DivBodyContainer {
     max-width: none !important;
+    -webkit-box-pack: inherit !important;
+    -webkit-justify-content: normal !important;
+    justify-content: normal !important;
+}
+
+.tiktok-3qrapw-DivMainContainer {
+	width: 100% !important;
+	max-width: none !important;
 }
 
 .tiktok-3qrapw-DivMainContainer > div {
 	display: grid;
-    	grid-template-columns: repeat(auto-fit, minmax(625px, 1fr));
+    	grid-template-columns: repeat(auto-fit, minmax(692px, 1fr));
 }
