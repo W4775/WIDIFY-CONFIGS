@@ -1,0 +1,8 @@
+.css-19fglm-DivBodyContainer {
+    max-width: none !important;
+}
+
+.tiktok-3qrapw-DivMainContainer > div {
+	display: grid;
+    	grid-template-columns: repeat(auto-fit, minmax(625px, 1fr));
+}
