@@ -80,6 +80,11 @@
                 "name": "twitch",
                 "baseURL": "twitch.tv",
                 "cssURL": "https://raw.githubusercontent.com/W4775/WIDIFY-CONFIGS/main/css/twitch.css"
+            },
+            {
+                "name": "twitter",
+                "baseURL": "twitter.com",
+                "cssURL": "https://raw.githubusercontent.com/W4775/WIDIFY-CONFIGS/main/css/twitter.css"
             }, 
             {
                 "name": "vrv",
