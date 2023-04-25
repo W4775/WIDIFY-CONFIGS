@@ -12,7 +12,6 @@
     position: fixed !important;
 }
 
-
 .ytp-large-width-mode>div>video.video-stream {
     display: block;
     width: 100% !important;
