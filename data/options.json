@@ -60,6 +60,11 @@
                 "name": "netflix",
                 "baseURL": "netflix.com",
                 "cssURL": "https://raw.githubusercontent.com/W4775/WIDIFY-CONFIGS/main/css/netflix.css"
+            },
+            {
+                "name": "paramount plus",
+                "baseURL": "paramountplus.com",
+                "cssURL": "https://raw.githubusercontent.com/W4775/WIDIFY-CONFIGS/main/css/paramountplus.css"
             }, 
             {
                 "name": "pixiv",
